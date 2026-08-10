@@ -5,7 +5,11 @@
 - 😄 Pronouns: Ele/Dele
 - 🐙
 
+<div>
+            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
+</div>
           
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Leonard0Barbosa&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=Leonard0Barbosa&show_icons=true&include_all_commits=true&theme=jolly)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leonard0Barbosa&layout=donut&langs_count=5&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=Leonard0Barbosa&layout=donut&langs_count=5&theme=jolly)
