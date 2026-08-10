@@ -5,4 +5,4 @@
 - 😄 Pronouns: Ele/Dele
 - 🐙
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leonard0Barbosa)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Leonard0Barbosa&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=Leonard0Barbosa&show_icons=true&include_all_commits=true&theme=jolly)
